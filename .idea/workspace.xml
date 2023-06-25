@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="efbee875-fdbb-44d9-bb6e-5829596a3e6d" name="Changes" comment="Just Started" />
+    <list default="true" id="efbee875-fdbb-44d9-bb6e-5829596a3e6d" name="Changes" comment="Just Started">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HandlingWebElement.py" beforeDir="false" afterPath="$PROJECT_DIR$/HandlingWebElement.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
