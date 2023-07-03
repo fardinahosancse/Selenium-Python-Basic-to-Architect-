@@ -5,6 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efbee875-fdbb-44d9-bb6e-5829596a3e6d" name="Changes" comment="Just Started">
+      <change afterPath="$PROJECT_DIR$/HandlingCheckbox.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/elementPresent_or_not.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xpath_cssSelector_InDepth_Part_01.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HandlingWebElement.py" beforeDir="false" afterPath="$PROJECT_DIR$/HandlingWebElement.py" afterDir="false" />
     </list>
@@ -24,13 +29,16 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2RgRgdrTZZCweJD7wrxpautbDNI" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -125,6 +133,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Just Started" />
     <option name="LAST_COMMIT_MESSAGE" value="Just Started" />
   </component>
