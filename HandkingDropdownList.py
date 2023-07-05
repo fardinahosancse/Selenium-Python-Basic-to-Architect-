@@ -16,9 +16,9 @@ driver.get("https://www.wikipedia.org/")
 
 #-----------------Drop Down Selection Start--------------------------------
 
-# dropdownlist: WebElement=driver.find_element(By.ID,'searchLanguage')
-#Select(dropdownlist).select_by_visible_text("English") --Using Solid Text
-# Select(dropdownlist).select_by_value('af') -- Usig Value inside option tag
+dropdownlist: WebElement=driver.find_element(By.ID,'searchLanguage')
+Select(dropdownlist).select_by_visible_text("English")
+Select(dropdownlist).select_by_value('af')
 
 #------------------------Find & Print all List components--------------------------------------------
 
