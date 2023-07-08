@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efbee875-fdbb-44d9-bb6e-5829596a3e6d" name="Changes" comment="Just Started">
-      <change afterPath="$PROJECT_DIR$/HandlingAlerts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HandlingPushNotifications.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HandlingTabs_popups.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Handling_JavaScript.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Handling_iFrame.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HandlingDrag_&amp;_drop.py" beforeDir="false" afterPath="$PROJECT_DIR$/HandlingDrag_&amp;_drop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HandlingPushNotifications.py" beforeDir="false" afterPath="$PROJECT_DIR$/HandlingPushNotifications.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
