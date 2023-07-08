@@ -5,16 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efbee875-fdbb-44d9-bb6e-5829596a3e6d" name="Changes" comment="Just Started">
-      <change afterPath="$PROJECT_DIR$/HandlingDrag_&amp;_drop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HandlingMouseOverElements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HandlingResizeable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HandlingSliders.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Handling_Right_Click.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lsits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HandlingAlerts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HandlingPushNotifications.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HandlingTabs_popups.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Handling_JavaScript.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Handling_iFrame.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HandkingDropdownList.py" beforeDir="false" afterPath="$PROJECT_DIR$/HandkingDropdownList.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HandlingWebElement.py" beforeDir="false" afterPath="$PROJECT_DIR$/HandlingWebElement.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HandlingDrag_&amp;_drop.py" beforeDir="false" afterPath="$PROJECT_DIR$/HandlingDrag_&amp;_drop.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +51,11 @@
     ]
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\fardi\PycharmProjects\Selenium" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Selenium" />
