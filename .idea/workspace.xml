@@ -5,6 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efbee875-fdbb-44d9-bb6e-5829596a3e6d" name="Changes" comment="Just Started">
+      <change afterPath="$PROJECT_DIR$/ChromeDebug.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Full_page_SS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Handling_WebTable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cssValidation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fullpage.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HandlingPushNotifications.py" beforeDir="false" afterPath="$PROJECT_DIR$/HandlingPushNotifications.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +24,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Handling_WebTable.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
