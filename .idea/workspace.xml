@@ -5,23 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efbee875-fdbb-44d9-bb6e-5829596a3e6d" name="Changes" comment="Just Started">
-      <change afterPath="$PROJECT_DIR$/Practice Once Again/Practice 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice Once Again/eede.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Loop/loop_xplored.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyTest/test_first_test_Case.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyTest/test_fixture_with_decorator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyTest/test_markers_Example.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Once Again/csv_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyTest/a.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyTest/dictionary.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyTest/pytest.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyTest/test_parameterized_marker.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BrowserTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/BrowserTest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChromeDebug.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChromeDebug.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium-Python-with-Behave-BDD--Basic---Advance---Architect-/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium-Python-with-Behave-BDD--Basic---Advance---Architect-/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium-Python-with-Behave-BDD--Basic---Advance---Architect-/.idea/Selenium.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium-Python-with-Behave-BDD--Basic---Advance---Architect-/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium-Python-with-Behave-BDD--Basic---Advance---Architect-/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium-Python-with-Behave-BDD--Basic---Advance---Architect-/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium-Python-with-Behave-BDD--Basic---Advance---Architect-/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyTest/test_markers_Example.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyTest/test_markers_Example.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,25 +39,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/fardi/PycharmProjects/Selenium/pyTest&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/fardi/PycharmProjects/Selenium/pyTest",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;ChangesTree.GroupingKeys&quot;: [
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\fardi\PycharmProjects\Selenium\pyTest" />
       <recent name="C:\Users\fardi\PycharmProjects\Selenium" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\fardi\PycharmProjects\Selenium\pyTest" />
+      <recent name="C:\Users\fardi\PycharmProjects\Selenium\Practice Once Again" />
     </key>
   </component>
   <component name="RunManager">
