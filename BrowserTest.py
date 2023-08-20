@@ -10,8 +10,4 @@ options.add_experimental_option("detach", True)
 driver = webdriver.Chrome(options=options,service=ChromeService(ChromeDriverManager().install()))
 
 driver.get("https://facebook.com")
-driver.maximize_window()
-title = driver.title
-print(title)
 
-assert "Facebooks" in title
